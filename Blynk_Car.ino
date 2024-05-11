@@ -8,8 +8,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 
-char ssid[] = "Godlike AIS_2.4G";
-char pass[] = "Godlike999";
+char ssid[] = ""; //ชื่อ Wi-Fi หรือ ฮอตสปอต
+char pass[] = ""; //รหัสผ่าน
 
 #define ENA D1
 #define IN1 D2
