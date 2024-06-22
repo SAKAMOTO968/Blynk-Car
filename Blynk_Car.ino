@@ -1,8 +1,8 @@
 #define BLYNK_PRINT Serial
 
-#define BLYNK_TEMPLATE_ID "TMPL6UbIk_BKs"
-#define BLYNK_TEMPLATE_NAME "Blynk Car"
-#define BLYNK_AUTH_TOKEN "wf8_sTHTnSLQILrZRKG5sX-zovGWdjdT"
+#define BLYNK_TEMPLATE_ID "" //ใส่ ID ที่ได้จากเว็บไซต์ Blynk
+#define BLYNK_TEMPLATE_NAME "" // ใส่ชื่อ TEMPLATE ที่ตั้งไว้
+#define BLYNK_AUTH_TOKEN "" //ใส่ TOKEN ที่ได้จากเว็บไซต์ Blynk
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
